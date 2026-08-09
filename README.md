@@ -26,6 +26,15 @@ Users can:
 
 ---
 
+<img width="956" height="503" alt="redmephoto" src="https://github.com/user-attachments/assets/efa3d5b5-4bd4-418b-8978-d72a0d260bde" />
+
+<img width="957" height="507" alt="redme1" src="https://github.com/user-attachments/assets/82c76735-1103-4f7a-9163-bbbf59ee844e" />
+
+
+
+
+
+
 ## ✨ Features
 
 ### 👤 Add Users
@@ -51,14 +60,6 @@ Each user has a **Toggle** button that changes the status:
 0 → 1
 1 → 0
 The updated status is stored directly in the MySQL database.
-
-<img width="956" height="503" alt="redmephoto" src="https://github.com/user-attachments/assets/22beedad-e26e-4bfe-9983-9d475c32ca11" />
-
-
-
-<img width="957" height="507" alt="redme1" src="https://github.com/user-attachments/assets/b1cfc67e-7eb0-4616-bb59-4776894bb9f8" />
-
-
 
 
 
